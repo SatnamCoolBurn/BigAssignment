@@ -15,6 +15,10 @@
    <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
 
+<build>
+<finalName>java-jenkins-docker</finalName>
+</build>
+
   <dependencies>
   
   <!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-core -->
